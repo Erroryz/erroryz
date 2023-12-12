@@ -1,4 +1,4 @@
-<h2> oi, um erro!  <img style="border-radius: 10%; margin-right: 10px;" src="https://media4.giphy.com/media/PtGsNIfHKioAMMa77H/giphy.gif?cid=ecf05e47o7fgi11jjbtntzoskvflbmthsxk42e6yyxhb8mhf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="90"></h2>
+<h2> oi, um erro!  <img  src="https://media4.giphy.com/media/PtGsNIfHKioAMMa77H/giphy.gif?cid=ecf05e47o7fgi11jjbtntzoskvflbmthsxk42e6yyxhb8mhf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="90"></h2>
 <img align='right' style="border-radius: 50%; margin-right: 10px;" src="https://i.giphy.com/JIX9t2j0ZTN9S.webp" width="230">
 <p><em>eu faço um monte de coisa inutil ai, nem te conto <img style="border-radius: 10%; margin-right: 10px;" src="https://media2.giphy.com/media/sMDgy1xL8498OFSz4y/giphy.gif?cid=ecf05e47smtapjemyhihj605thracl6np2gxuziyl5qpkwr9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40"></br>sim, eu <strong>amo</strong> gatos <img style="border-radius: 10%; margin-right: 10px;" src="https://media0.giphy.com/media/JlpihM5xjBAkszY14v/giphy.gif?cid=ecf05e47tr46j48pqcfei1sdz67o9fr2hjgekq6sj5fwqht6&ep=v1_gifs_search&rid=giphy.gif&ct=gf" width="40"> 
 </em></p>

@@ -1,27 +1,18 @@
-<h2> oi, um erro!  <img  src="https://media4.giphy.com/media/PtGsNIfHKioAMMa77H/giphy.gif?cid=ecf05e47o7fgi11jjbtntzoskvflbmthsxk42e6yyxhb8mhf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"></h2>
-<img align='right' style="border-radius: 50%; margin-right: 10px;" src="https://i.giphy.com/JIX9t2j0ZTN9S.webp" width="230">
-<p><em>eu faço um monte de coisa inutil ai, nem te conto <img style="border-radius: 10%; margin-right: 10px;" src="https://media2.giphy.com/media/sMDgy1xL8498OFSz4y/giphy.gif?cid=ecf05e47smtapjemyhihj605thracl6np2gxuziyl5qpkwr9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40"></br>sim, eu <strong>amo</strong> gatos <img style="border-radius: 10%; margin-right: 10px;" src="https://media0.giphy.com/media/JlpihM5xjBAkszY14v/giphy.gif?cid=ecf05e47tr46j48pqcfei1sdz67o9fr2hjgekq6sj5fwqht6&ep=v1_gifs_search&rid=giphy.gif&ct=gf" width="40"> 
-</em></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=32&lines=%E2%9A%A0%EF%B8%8E+Error+%E2%9A%A0%EF%B8%8E)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Erroryz&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Erroryz" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erroryz&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</div>
 
 
-[![GitHub Erroryz](https://img.shields.io/github/followers/Erroryz?label=follow&style=social)](https://github.com/Erroryz)
-<em>sinscreve, compartilha e dá o laike</em>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Erroryz&custom_title=%20&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### <img style="border-radius: 10%; margin-right: 10px;" src="https://media1.tenor.com/m/aZ1PR9DpnOYAAAAC/annoyed-disappointed.gif" width="50"> um pouco a mais aqui ó 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-```javascript
-const Errory = {
-  code: ["Javascript", "Java (odeio essa desgraça, mas to aprendendo)", "HTML (aprendendo)", "CSS (aprendendo)"],
-  habilidades: {
-                        cagada: "faço muita cagada, isso é verdade",
-                        preguica: "a preguiça me contamina",
-                        bedwars: "sei jogar bedwars, eu acho",
-						burrice: "a burrice é meu ponto forte"
-						// tem piores, mas to com preguiça de escrever 
-                      },
-  status: "que vontade de cagar 🤙"
-}
-```
-<img src="https://media.tenor.com/AxorYMvtovUAAAAC/cute-cat.giff" width="80" style="border-radius: 10%; margin-right: 10px;"> <em><b> agora tchau, obrigado por ver meu perfil</em>
 
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
